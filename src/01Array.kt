@@ -9,6 +9,6 @@ fun main(args: Array<String>) {
     }
 
     for (i in arrB) {
-        println("$i ")
+        print("$i ")
     }
 }
