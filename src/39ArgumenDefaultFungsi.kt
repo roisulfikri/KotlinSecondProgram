@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
     connectToDb()
     println()
 
-    connectToDb("sqlserver", "depandi")
+    connectToDb("sqlserver", "roisul")
 }
 fun connectToDb(hostname: String = "localhost",
                 username: String = "mysql",
